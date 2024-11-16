@@ -12,7 +12,7 @@ to use this project, follow these installation steps :
 
 Clone this repository :
 
-	https://github.com/naimaA10/naimaA10.github.io.git
+	https://github.com/naimaA10/Transmembrane-Detection-Python
 
 PyMol
 
